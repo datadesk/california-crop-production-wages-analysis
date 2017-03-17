@@ -1,0 +1,4 @@
+data/*.zip
+data/*.annual.singlefile.csv
+*.pyc
+.ipynb_checkpoints

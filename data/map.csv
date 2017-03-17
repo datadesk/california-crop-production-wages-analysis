@@ -1,0 +1,59 @@
+year,area_fips,area_title,industry_group,annual_avg_emplvl,total_annual_wages_2015,avg_annual_pay_2015
+2015,06055,"Napa County, California",crops,4944,207353601.0,41940.4532767
+2015,06011,"Colusa County, California",crops,1617,66487095.0,41117.5602968
+2015,06075,"San Francisco County, California",crops,99,3988242.0,40285.2727273
+2015,06049,"Modoc County, California",crops,186,7420400.0,39894.6236559
+2015,06007,"Butte County, California",crops,2818,112207928.0,39818.2853087
+2015,06085,"Santa Clara County, California",crops,3522,137077497.0,38920.3568995
+2015,06001,"Alameda County, California",crops,231,8751965.0,37887.2943723
+2015,06041,"Marin County, California",crops,177,6589747.0,37230.2090395
+2015,06021,"Glenn County, California",crops,1018,37735869.0,37068.6335953
+2015,06063,"Plumas County, California",crops,20,728692.0,36434.6
+2015,06069,"San Benito County, California",crops,1662,60177002.0,36207.5824308
+2015,06093,"Siskiyou County, California",crops,416,14774476.0,35515.5673077
+2015,06103,"Tehama County, California",crops,1520,53350912.0,35099.2842105
+2015,06037,"Los Angeles County, California",crops,4139,143787125.0,34739.5808166
+2015,06095,"Solano County, California",crops,1600,54938753.0,34336.720625
+2015,06113,"Yolo County, California",crops,5687,195001613.0,34289.0123088
+2015,06097,"Sonoma County, California",crops,4917,167179812.0,34000.3685174
+2015,06053,"Monterey County, California",crops,52532,1775466167.0,33797.8026155
+2015,06087,"Santa Cruz County, California",crops,8185,275365380.0,33642.6854001
+2015,06013,"Contra Costa County, California",crops,618,19984215.0,32336.9174757
+2015,06073,"San Diego County, California",crops,7825,251232363.0,32106.3722684
+2015,06023,"Humboldt County, California",crops,405,12906661.0,31868.2987654
+2015,06099,"Stanislaus County, California",crops,11190,356416084.0,31851.3033065
+2015,06009,"Calaveras County, California",crops,37,1170458.0,31634.0
+2015,06115,"Yuba County, California",crops,708,22374356.0,31602.1977401
+2015,06083,"Santa Barbara County, California",crops,20436,643305286.0,31479.0216285
+2015,06027,"Inyo County, California",crops,30,933720.0,31124.0
+2015,06081,"San Mateo County, California",crops,1514,46968831.0,31023.0059445
+2015,06111,"Ventura County, California",crops,25916,797246565.0,30762.7166615
+2015,06077,"San Joaquin County, California",crops,15163,463138807.0,30544.0089033
+2015,06061,"Placer County, California",crops,258,7875692.0,30525.9379845
+2015,06035,"Lassen County, California",crops,664,20213036.0,30441.3192771
+2015,06999,"Unknown Or Undefined, California",crops,1179,35690919.0,30272.1959288
+2015,06059,"Orange County, California",crops,2173,65597363.0,30187.4657156
+2015,06079,"San Luis Obispo County, California",crops,4634,139881545.0,30185.9182132
+2015,06101,"Sutter County, California",crops,3939,114064242.0,28957.6648896
+2015,06067,"Sacramento County, California",crops,2284,64407340.0,28199.3607706
+2015,06047,"Merced County, California",crops,10911,302740031.0,27746.3139034
+2015,06065,"Riverside County, California",crops,11690,318383077.0,27235.5070145
+2015,06019,"Fresno County, California",crops,44767,1211987755.0,27073.240445
+2015,06015,"Del Norte County, California",crops,140,3781894.0,27013.5285714
+2015,06045,"Mendocino County, California",crops,1154,31015924.0,26876.8838821
+2015,06071,"San Bernardino County, California",crops,1225,32705196.0,26698.1191837
+2015,06039,"Madera County, California",crops,9572,255031370.0,26643.4778521
+2015,06031,"Kings County, California",crops,3365,88708738.0,26362.1806835
+2015,06029,"Kern County, California",crops,56883,1491403888.0,26218.798024
+2015,06033,"Lake County, California",crops,237,5978368.0,25225.1814346
+2015,06107,"Tulare County, California",crops,32989,798570555.0,24207.1767862
+2015,06025,"Imperial County, California",crops,12395,298426613.0,24076.3705526
+2015,06005,"Amador County, California",crops,165,3908808.0,23689.7454545
+2015,06017,"El Dorado County, California",crops,194,3545384.0,18275.1752577
+2015,06057,"Nevada County, California",crops,28,454869.0,16245.3214286
+2015,06051,"Mono County, California",crops,9,113286.0,12587.3333333
+2015,06043,"Mariposa County, California",crops,0,0.0,
+2015,06089,"Shasta County, California",crops,0,0.0,
+2015,06091,"Sierra County, California",crops,0,0.0,
+2015,06105,"Trinity County, California",crops,0,0.0,
+2015,06109,"Tuolumne County, California",crops,0,0.0,
