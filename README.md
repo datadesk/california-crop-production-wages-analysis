@@ -7,3 +7,5 @@ The Los Angeles Times conducted an analysis of the [Quarterly Census of Employme
 The analysis found that wages for crop production in California have increased by 13% from 2010 to 2015, twice as fast as average pay in the state. It also found that workers in some parts of the state earn much more than others. Napa County, home to many of state's wineries, pays workers the most.
 
 Those results were published in a March 17, 2017 story ["Wages rise on California farms. Americans still don’t want the job"](http://www.latimes.com/projects/la-fi-farms-immigration/).
+
+Reproduce the analysis by running the Python code in [03-analysis.ipynb](./03-analysis.ipynb).
